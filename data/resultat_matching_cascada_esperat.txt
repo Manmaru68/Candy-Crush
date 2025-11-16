@@ -1,0 +1,79 @@
+TAULER ORIGINAL:
+----------------
+G P O Y O G O P B G
+B P R Y B P B O P R
+R O Y G P R Y O B G
+G P B O P O Y B R G
+B P O P G Y B R Y R
+R O Y B O B Y R O G
+G P O R R G B B G G
+B P G Y B P O Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+INTERCANVI DE CARAMELS (4,3) -> (4,4):
+--------------------------------------
+G P O Y O G O P B G
+B P R Y B P B O P R
+R O Y G P R Y O B G
+G P B O P O Y B R G
+B P O G P Y B R Y R
+R O Y B O B Y R O G
+G P O R R G B B G G
+B P G Y B P O Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+ELIMINACIO DE CARAMELS
+----------------------
+G P O Y O G O P B G
+B P R Y B P B O P R
+R O Y G   R Y O B G
+G P B O   O Y B R G
+B P O G   Y B R Y R
+R O Y B O B Y R O G
+G P O R R G B B G G
+B P G Y B P O Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+MOVIMENT I APARICIO DE NOUS CARAMELS
+----------------------------------------
+G P O Y Y G O P B G
+B P R Y O P B O P R
+R O Y G R R Y O B G
+G P B O O O Y B R G
+B P O G B Y B R Y R
+R O Y B O B Y R O G
+G P O R R G B B G G
+B P G Y B P O Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+DETECCIO D'UNA NOVA COMBINACIO
+ELIMINACIO DELS CARAMELS
+---------------------------------------
+G P O Y Y G O P B G
+B P R Y O P B O P R
+R O Y G R R Y O B G
+G P B       Y B R G
+B P O G B Y B R Y R
+R O Y B O B Y R O G
+G P O R R G B B G G
+B P G Y B P O Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+MOVIMENT I APARICIO DE NOUS CARAMELS
+RESULTAT FINAL
+----------------------------------------
+G P O B G P O P B G
+B P R Y Y G B O P R
+R O Y Y O P Y O B G
+G P B G R R Y B R G
+B P O G B Y B R Y R
+R O Y B O B Y R O G
+G P O R R G B B G G
+B P G Y B P O Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R

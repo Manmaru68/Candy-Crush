@@ -1,0 +1,11 @@
+B 10 20
+G P O Y O Y O P B G
+B P O Y B P B Y P R
+R O Y R G R G B B G
+G P O Y O Y O P R G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R

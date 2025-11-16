@@ -1,0 +1,92 @@
+TAULER ORIGINAL:
+----------------
+G P O Y O Y O P B G
+B P O Y B P B Y P R
+R O Y R G R G B B G
+G P O Y O Y O P R G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+INTERCANVI DE CARAMELS (5,2) -> (5,3):
+--------------------------------------
+G P O Y O Y O P B G
+B P O Y B P B Y P R
+R O Y R G R G B B G
+G P O Y O Y O P R G
+B P O Y B P B Y B R
+R O R Y G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+ELIMINACIO DE CARAMELS
+----------------------
+G P O Y O Y O P B G
+B P O Y B P B Y P R
+R O Y R G R G B B G
+G P O   O Y O P R G
+B P O   B P B Y B R
+R O R   G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+MOVIMENT I APARICIO DE NOUS CARAMELS
+----------------------------------------
+G P O Y O Y O P B G
+B P O O B P B Y P R
+R O Y R G R G B B G
+G P O Y O Y O P R G
+B P O Y B P B Y B R
+R O R R G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+INTERCANVI DE CARAMELS (1,6) -> (2,6):
+--------------------------------------
+G P O Y O Y O P B G
+B P O O B P G Y P R
+R O Y R G R B B B G
+G P O Y O Y O P R G
+B P O Y B P B Y B R
+R O R R G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+ELIMINACIO DE CARAMELS
+----------------------
+G P O Y O Y O P B G
+B P O O B P G Y P R
+R O Y R G R       G
+G P O Y O Y O P R G
+B P O Y B P B Y B R
+R O R R G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
+
+
+MOVIMENT I APARICIO DE NOUS CARAMELS
+RESULTAT FINAL
+----------------------------------------
+G P O Y O Y B G P G
+B P O O B P O P B R
+R O Y R G R G Y P G
+G P O Y O Y O P R G
+B P O Y B P B Y B R
+R O R R G R G B B G
+G P O B O Y O P G G
+B P O Y B P B Y B R
+R O Y R G R G B B G
+B P O Y B P B Y O R
